@@ -53,6 +53,14 @@
       "src/**/*.{js,jsx}",
       "!<rootDir>/node_modules/"
     ],
+    "collectCoverageFrom": [
+      "!src/registerServiceWorker.js",
+      "!src/index.js",
+      "!src/components/index.js",
+      "!src/utilities/index.js",
+      "src/**/*.{js,jsx}",
+      "!<rootDir>/node_modules/"
+    ],
     "snapshotSerializers": [
       "enzyme-to-json/serializer"
     ]
