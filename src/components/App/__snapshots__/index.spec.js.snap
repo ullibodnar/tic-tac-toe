@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`components:App renders the App with a game board and nine squares 1`] = `
+exports[`components:App renders the App with a blank game board and nine squares 1`] = `
 .c0 {
   display: grid;
   font-family: 'Verdana',sans-serif;
